@@ -19,6 +19,8 @@
 # Logs
 logs
 *.log
+.gitignore
+.DS_Store
 
 # Docker specific
 docker-compose.yml
@@ -28,3 +30,4 @@ Dockerfile
 build steps.txt
 joe-shiny-seurat-image-1.0.tar
 verify_packages.R
+git push -u origin master
