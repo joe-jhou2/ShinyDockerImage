@@ -1,0 +1,30 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio specific
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# VS Code specific
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Docker specific
+docker-compose.yml
+Dockerfile
+
+# Othes
+build steps.txt
+joe-shiny-seurat-image-1.0.tar
+verify_packages.R
